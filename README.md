@@ -10,7 +10,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/cothd321/)
 
 
-![Static Badge](https://img.shields.io/badge/:#ECD53F)
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 # 학업
 
