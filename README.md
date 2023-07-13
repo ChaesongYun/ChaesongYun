@@ -11,7 +11,7 @@
 
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-
+![Java](https://img.shields.io/badge/Java-#3776AB.svg?&style=for-the-badge&logo=Java&logoColor=#3776AB)
 # 학업
 
 # 자격증
