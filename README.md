@@ -2,7 +2,7 @@
 
 ![홀앙이](https://mblogthumb-phinf.pstatic.net/20141029_111/rlaeowns1174_1414582234963CAoVj_JPEG/D6036D025A415E3417F9F8AE105A8FB3_1920x1200.jpg?type=w2)
 
-# 98범띠 화이팅
+# Keep it Simple, Stupid
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hapbbie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
