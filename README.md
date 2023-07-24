@@ -26,7 +26,7 @@
 # 🤙Contact
 - e-mail : hapbbie@naver.com
 - [velog] (https://velog.io/@hapbbie)
-- [notion] (https://www.notion.so/_Python-110b5e1efd5849f08d8c8564c2a0ce74)
+- [notion] (https://bubble-jar-ec5.notion.site/8abbb95c439a4a9da2cc95cac08729ba?pvs=4)
 
 
 
