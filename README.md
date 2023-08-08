@@ -22,6 +22,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
+![Java](https://img.shields.io/badge/java-16A5F3.svg?&style=for-the-badge&logo=java&logoColor=white)
 
 <br>
 <br>
