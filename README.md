@@ -32,8 +32,7 @@
 
 # 🤙Contact
 - e-mail : hapbbie@naver.com
-- [velog] (https://velog.io/@hapbbie)
-- [notion] (https://bubble-jar-ec5.notion.site/8abbb95c439a4a9da2cc95cac08729ba?pvs=4)
+- notion : https://bubble-jar-ec5.notion.site/8abbb95c439a4a9da2cc95cac08729ba?pvs=4
 
 
 
